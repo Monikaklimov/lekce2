@@ -3,3 +3,7 @@
 console.log("jmenuji se Monika")
 const prijem = 12 * 174 * 15
 console.log(prijem)
+const slevaStudent = 0.65 * 12
+const pocetStudentu = 0.4 * 174
+const novyPrijem = slevaStudent * 15 * pocetStudentu
+console.log(novyPrijem)
